@@ -1,0 +1,4 @@
+black_jack_tournament:
+    resource: "@BlackJackTournamentBundle/Resources/config/routing.yml"
+    prefix:   /
+

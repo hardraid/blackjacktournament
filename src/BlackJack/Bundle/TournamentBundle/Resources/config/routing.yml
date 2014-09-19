@@ -1,0 +1,3 @@
+blackjack_tournament_homepage:
+    path:     /
+    defaults: { _controller: BlackJackTournamentBundle:Homepage:index }

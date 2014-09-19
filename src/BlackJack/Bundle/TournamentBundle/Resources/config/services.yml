@@ -1,0 +1,7 @@
+parameters:
+#    black_jack_tournament.example.class: BlackJack\Bundle\TournamentBundle\Example
+
+services:
+#    black_jack_tournament.example:
+#        class: %black_jack_tournament.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
